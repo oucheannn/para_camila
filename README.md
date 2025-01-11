@@ -1,3 +1,4 @@
+este es un taller hecho para mi 
 # 🚀 Viajes en el Tiempo con Git: Una Aventura Para Jóvenes Exploradores
 
 Imagina que eres un viajero del tiempo y tienes una máquina del tiempo muy especial llamada "Git". Esta máquina te permite:
